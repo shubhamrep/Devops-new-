@@ -1,0 +1,1 @@
+A Network Address Translation (NAT) Gateway allows instances in a private subnet to initiate outbound traffic to the internet while preventing unsolicited inbound traffic.
